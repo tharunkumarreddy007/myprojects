@@ -1,2 +1,3 @@
-# myprojects
-python chat boots,aws automation scripts,django scripts
+# myproject sample code on AWS Automation scripts.
+
+#sample codes
