@@ -1,0 +1,42 @@
+so maintained aws account automation with simple python scripts..
+
+-various operations in ec2..
+
+check list of instance in various users..(custome method)
+list of all instance..default..
+
+--various status or state of instance..
+
+--creation of ec2 instance with simple scripts..
+
+--termination of ec2 instance with python boto3 scripts..
+
+
+--starting,stoping,rebooting..automation of ec2 infra structure with python scripts..
+
+
+s3..
+
+listing all buckets with python scripting..
+
+creation of buckets with simple python scripts..
+
+deleting of buckets with python scripts..
+
+
+rds:
+
+listing all rds in aws acount with python scripts..
+
+creation of rds instance with simple cripts..
+
+
+IAM:
+
+creation of IAM users..
+
+deleting of aws users..
+
+listing of IAM users..
+
+troubleshooting and monitoring aws aucount with python scripts..in order to reduce effort and human interference with automain of aws
